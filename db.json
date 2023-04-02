@@ -361,26 +361,5 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum eleifend metus, ac dapibus velit vehicula non. Nullam fermentum porta sodales. Integer rhoncus magna vel leo aliquam accumsan. Cras at massa ligula. Morbi vehicula sollicitudin nisi quis tristique. Maecenas bibendum augue eget ullamcorper finibus. Mauris dignissim neque odio, at dignissim purus laoreet et. Praesent quis tortor volutpat libero maximus pretium. Fusce eget risus ullamcorper, finibus justo eu, vehicula felis. Nulla facilisi. Cras sit amet dignissim neque."
     }
 ],
-"cart":[
-    {
-        "id":1,
-        "title":"Tata 1mg Women's Multivitamin Veg Tablet with Zinc, Vitamin C, Calcium, Vitamin D and Iron, Support Immunity, Bones & Overall Health",
-        "rating":4.4,
-        "price":348,
-        "brand":"Tata",
-        "img":"https://onemg.gumlet.io/images/q_auto,f_auto,w_150,c_fit,h_150/qh1au45w8u7cfvf3lg3i/tata-1mg-women-s-multivitamin-veg-tablet-with-zinc-vitamin-c-calcium-vitamin-d-and-iron-support-immunity-bones-overall-health.jpg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum eleifend metus, ac dapibus velit vehicula non. Nullam fermentum porta sodales. Integer rhoncus magna vel leo aliquam accumsan. Cras at massa ligula. Morbi vehicula sollicitudin nisi quis tristique. Maecenas bibendum augue eget ullamcorper finibus. Mauris dignissim neque odio, at dignissim purus laoreet et. Praesent quis tortor volutpat libero maximus pretium. Fusce eget risus ullamcorper, finibus justo eu, vehicula felis. Nulla facilisi. Cras sit amet dignissim neque.",
-        "quantity":1
-    },
-    {
-        "id":2,
-        "title":"Tata 1mg Multivitamin Supreme, Zinc, Calcium and Vitamin D Capsule for Immunity, Energy, Overall Health",
-        "rating":4.2,
-        "price":398,
-        "brand":"Tata",
-        "img":"https://onemg.gumlet.io/images/q_auto,f_auto,w_150,c_fit,h_150/gmkrpf1imjj9djwvq4gq/tata-1mg-multivitamin-supreme-zinc-calcium-and-vitamin-d-capsule-for-immunity-energy-overall-health.jpg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum eleifend metus, ac dapibus velit vehicula non. Nullam fermentum porta sodales. Integer rhoncus magna vel leo aliquam accumsan. Cras at massa ligula. Morbi vehicula sollicitudin nisi quis tristique. Maecenas bibendum augue eget ullamcorper finibus. Mauris dignissim neque odio, at dignissim purus laoreet et. Praesent quis tortor volutpat libero maximus pretium. Fusce eget risus ullamcorper, finibus justo eu, vehicula felis. Nulla facilisi. Cras sit amet dignissim neque.",
-        "quantity":1
-    }
-]
+"cart":[]
 }
